@@ -1,0 +1,19 @@
+.num{
+    font-size: 50px;
+    font-family: "DM Serif Display";
+    width: 2ch;
+    height: 4.3rem;
+}
+
+.timer-box{
+    height: 4.3rem;
+}
+
+i{
+    font-size: 34px;
+    font-weight: bolder;
+}
+
+.bg-dark{
+    background-color: rgb(33, 33, 33) !important;
+}
